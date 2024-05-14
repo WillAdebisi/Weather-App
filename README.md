@@ -1,4 +1,4 @@
-**Weather App**
+<h1>**Weather App** </h1>
 This is a simple weather app created using HTML, CSS, and JavaScript. It allows users to search for weather data for any location in the world. Unfortunately, the current version of the app is experiencing issues with the API fetching weather data. We're actively working on fixing this problem and apologize for any inconvenience it may cause.
 
 **Features**
