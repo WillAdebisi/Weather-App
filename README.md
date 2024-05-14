@@ -20,7 +20,7 @@ This is a simple weather app created using HTML, CSS, and JavaScript. It allows 
 </ul>
 <h2>Contributing</h2>
 <ul style = "list-style-type-square">
-I welcome contributions to help fix the API issue and improve the app's functionality. Please follow these steps:
+<h3>I welcome contributions to help fix the API issue and improve the app's functionality. Please follow these steps:</h3>
 <li>Fork the repository.</li>
 <li>Create your feature branch: git checkout -b feature/YourFeature</li>
 <li>Commit your changes: git commit -am 'Add some feature' </li>
